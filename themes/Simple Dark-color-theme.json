@@ -531,7 +531,7 @@
 			"name": "Keywords",
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#4086f6"
+				"foreground": "#547fc5"
 			}
 		},
 		{
@@ -545,7 +545,7 @@
 			"name": "Variables",
 			"scope": "variable",
 			"settings": {
-				"foreground": "#4fc1ff"
+				"foreground": "#72ceff"
 			}
 		},
 		{
@@ -1789,7 +1789,6 @@
 			"name": "Comments",
 			"scope": "comment, punctuation.definition.comment",
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#85878a"
 			}
 		},
@@ -1825,9 +1824,6 @@
 		{
 			"name": "comment",
 			"scope": "comment.line.double-slash,comment.block.documentation",
-			"settings": {
-				"fontStyle": "italic"
-			}
 		},
 		{
 			"name": "Python Keyword Control",
