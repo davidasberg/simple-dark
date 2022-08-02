@@ -7,3 +7,5 @@
 - Restart VS Code
 - Chose the simple dark theme by pressing Ctrl+Shift+P and searching for 'Preferences: Color Theme'
 ```
+# Images
+![image](https://user-images.githubusercontent.com/47108520/182382137-54bdf5af-b887-46b2-adc8-5f9a098eaf3d.png)
