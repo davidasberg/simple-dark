@@ -4,7 +4,7 @@
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
 		"enumMember": {
-			"foreground": "#ffffff"
+			"foreground": "#ffc049"
 		},
 		"variable.constant": {
 			"foreground": "#ffc049"
@@ -531,7 +531,7 @@
 			"name": "Keywords",
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#6da6ff"
+				"foreground": "#4086f6"
 			}
 		},
 		{
@@ -736,7 +736,7 @@
 			"name": "Strings",
 			"scope": "string",
 			"settings": {
-				"foreground": "#cf9e6a"
+				"foreground": "#ffb261"
 			}
 		},
 		{
@@ -1913,7 +1913,7 @@
 		"inputOption.activeBackground": "#303030",
 		"inputOption.activeBorder": "#007acc00",
 		"inputOption.activeForeground": "#ffffff",
-		"input.placeholderForeground": "#0d0d0d",
+		"input.placeholderForeground": "#beb2b2",
 		"textLink.foreground": "#438dff",
 		"editor.background": "#171616",
 		"editor.foreground": "#d9d9d9",
@@ -2095,6 +2095,12 @@
 		"breadcrumb.activeSelectionForeground": "#e0e0e0",
 		"editorGutter.commentRangeForeground": "#c5c5c5",
 		"debugExceptionWidget.background": "#333333",
-		"debugExceptionWidget.border": "#474747"
+		"debugExceptionWidget.border": "#474747",
+		"editorInlayHint.foreground": "#d6d6d6",
+		"editorInlayHint.background": "#3d3d3d",
+		"editorInlayHint.typeForeground": "#d6d6d6",
+		"editorInlayHint.typeBackground": "#3d3d3d",
+		"editorInlayHint.parameterForeground": "#d6d6d6",
+		"editorInlayHint.parameterBackground": "#3d3d3d",
 	}
 }
