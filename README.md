@@ -8,4 +8,4 @@
 - Chose the simple dark theme by pressing Ctrl+Shift+P and searching for 'Preferences: Color Theme'
 ```
 # Images
-![image](https://user-images.githubusercontent.com/47108520/182382137-54bdf5af-b887-46b2-adc8-5f9a098eaf3d.png)
+![image](https://user-images.githubusercontent.com/47108520/182382708-6120416e-59c5-40d1-9138-396dacce8d8d.png)
