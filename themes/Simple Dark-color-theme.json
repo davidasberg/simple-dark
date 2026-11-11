@@ -4,7 +4,9 @@
 	"include": "./dark_modern.json",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#171616"
+		"editor.background": "#0d0c0c",
+		"panel.background": "#0d0c0c",
+		"sideBar.background": "#0d0c0c",
 	},
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
